@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <style>
+            .hello {
+                color:red;
+            }
+            .article.science {
+                color:blueviolet;
+            }
+        </style>
+     </head>
+     <body>
+         <p class="hello">こんにちは</p>
+         <p class="hello">good morning</p>
+         <p class="article science">あああああああああ</p>
+         <p class="article">
+             これはaaaaに関する記事です。
+             <img scr="./example.jpg" alt="記事の画像">
+         </p>
+         <hr>
+         <p class="article">
+    </body>
+</html>
+
+
+
